@@ -13,7 +13,11 @@
 ## 🛠️ 技术栈
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,linux,redis,postgres,pytorch,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=go,java,mysql,redis,py,docker,git,linux" />
+  <br/>
+  <img src="https://img.shields.io/badge/RocketMQ-D77310?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-1E1E1E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skills-8A2BE2?style=for-the-badge&logoColor=white" />
 </p>
 
 ## 📊 GitHub Stats
