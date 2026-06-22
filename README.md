@@ -8,7 +8,10 @@
 
 🎓 **大三在读 拼命准备秋招中...**  
 ⚡ 后端 & Agent 工程师  
-🧠 对多Agent协作、Agent记忆非常感兴趣
+🧠 对多Agent协作、Agent记忆非常感兴趣  
+📫 邮箱：Diegoluv7@163.com  
+💬 WeChat：-Gyc-c
+
 
 ## 🛠️ 技术栈
 
@@ -17,12 +20,6 @@
   <img src="https://skillicons.dev/icons?i=java,python,linux,mysql,redis,lua,spring" />
   <br/>
   <img src="https://img.shields.io/badge/AI_Agent-7B2D8E?style=for-the-badge&logoColor=white" />
-</div>
-
-### 📫 Contact
-
-<div align="center">
-  Email: Diegoluv7@163.com
 </div>
 
 ## 📊 GitHub Stats
