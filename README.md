@@ -4,9 +4,9 @@
 
 ## 🚀 About Me
 
-**大三在读 拼命秋招中...**  
-后端 & Agent 工程师  
-对多Agent协作、Agent记忆非常感兴趣
+🎓 **大三在读 拼命秋招中...**  
+⚡ 后端 & Agent 工程师  
+🧠 对多Agent协作、Agent记忆非常感兴趣
 
 ## 📊 GitHub Stats
 
