@@ -1,4 +1,4 @@
-git remote add origin https://github.com/iluv7/iluv7.git![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=%F0%9F%91%8B%20Hi%2C%20%E6%88%91%E6%98%AFiluv7%21;%E5%90%8E%E7%AB%AF%20%26%20Agent%20%E5%B7%A5%E7%A8%8B%E5%B8%88;%E5%AF%B9%E5%A4%9AAgent%E5%8D%8F%E4%BD%9C%E3%80%81Agent%E8%AE%B0%E5%BF%86%E9%9D%9E%E5%B8%B8%E6%84%9F%E5%85%B4%E8%B6%A3)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=%F0%9F%91%8B%20Hi%2C%20%E6%88%91%E6%98%AFDiegoC%21;%E5%90%8E%E7%AB%AF%20%26%20Agent%20%E5%B7%A5%E7%A8%8B%E5%B8%88;%E5%AF%B9%E5%A4%9AAgent%E5%8D%8F%E4%BD%9C%E3%80%81Agent%E8%AE%B0%E5%BF%86%E9%9D%9E%E5%B8%B8%E6%84%9F%E5%85%B4%E8%B6%A3)
 
 <div align="center">
   <img src="./diego.gif" alt="Diego Brando" />
