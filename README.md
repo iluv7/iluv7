@@ -4,11 +4,17 @@
   <img src="https://media.tenor.com/bw5iV48WteoAAAAd/diego-brando-part-7.gif" alt="Diego Brando" />
 </p>
 
-## 🚀 About Me
+## 🚀 关于我
 
 🎓 **大三在读 拼命准备秋招中...**  
 ⚡ 后端 & Agent 工程师  
 🧠 对多Agent协作、Agent记忆非常感兴趣
+
+## 🛠️ 技术栈
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,linux,redis,postgres,pytorch,github,vscode" />
+</p>
 
 ## 📊 GitHub Stats
 
