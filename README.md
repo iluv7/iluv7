@@ -1,10 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=%F0%9F%91%8B%20Hi%2C%20%E6%88%91%E6%98%AFDiegoC%21;%E5%90%8E%E7%AB%AF%20%26%20Agent%20%E5%B7%A5%E7%A8%8B%E5%B8%88;%E5%AF%B9%E5%A4%9AAgent%E5%8D%8F%E4%BD%9C%E3%80%81Agent%E8%AE%B0%E5%BF%86%E9%9D%9E%E5%B8%B8%E6%84%9F%E5%85%B4%E8%B6%A3)
 
-![Coding](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Diego Brando](https://media.tenor.com/bw5iV48WteoAAAAd/diego-brando-part-7.gif)
 
 ## 🚀 About Me
 
-🎓 **大三在读 拼命秋招中...**  
+🎓 **大三在读 拼命准备秋招中...**  
 ⚡ 后端 & Agent 工程师  
 🧠 对多Agent协作、Agent记忆非常感兴趣
 
