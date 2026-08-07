@@ -24,7 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="48" alt="Redis" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="48" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="48" alt="Spring" />
   <br/>
   <img src="https://img.shields.io/badge/AI_Agent-7B2D8E?style=for-the-badge&logoColor=white" />
 </div>
