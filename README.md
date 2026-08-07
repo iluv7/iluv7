@@ -17,7 +17,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/vector/superhero/standing.svg" height="48" alt="Go gopher" />
-  <img src="https://skillicons.dev/icons?i=java,python,linux,mysql,redis,docker,kubernetes,spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="48" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="48" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="48" alt="Spring" />
   <br/>
   <img src="https://img.shields.io/badge/AI_Agent-7B2D8E?style=for-the-badge&logoColor=white" />
 </div>
