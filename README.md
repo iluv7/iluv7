@@ -17,7 +17,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/vector/superhero/standing.svg" height="48" alt="Go gopher" />
-  <img src="https://skillicons.dev/icons?i=java,python,linux,mysql,redis,lua,spring" />
+  <img src="https://skillicons.dev/icons?i=java,python,linux,mysql,redis,docker,kubernetes,spring" />
   <br/>
   <img src="https://img.shields.io/badge/AI_Agent-7B2D8E?style=for-the-badge&logoColor=white" />
 </div>
