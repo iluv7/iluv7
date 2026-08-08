@@ -1,20 +1,14 @@
+<img src="./assets/about-me.png" height="150" align="right" alt="Profile illustration" />
+
 ## 🚀 About Me
 
-<table>
-  <tr>
-    <td valign="top">
-      🎓 <strong>Junior year, grinding for autumn recruitment...</strong><br/>
-      ⚡ Backend &amp; Agent Engineer<br/>
-      🧠 Passionate about Multi-Agent Collaboration &amp; Agent Memory<br/>
-      📫 Email: DiegoCluv7@163.com<br/>
-      💬 WeChat: -Gyc-c
-    </td>
-    <td valign="top" align="right">
-      <img src="https://i.pinimg.com/originals/d1/3d/08/d13d0843ea9a2f5bd8a3613974c8b72a.jpg" height="105" alt="Profile illustration" />
-    </td>
-  </tr>
-</table>
+🎓 **Junior year, grinding for autumn recruitment...**<br/>
+⚡ Backend & Agent Engineer<br/>
+🧠 Passionate about Multi-Agent Collaboration & Agent Memory<br/>
+📫 Email: DiegoCluv7@163.com<br/>
+💬 WeChat: -Gyc-c
 
+<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
