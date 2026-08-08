@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B%20Hi%2C%20I'm%20DiegoC!;Backend%20%26%20Agent%20Engineer" alt="Typing SVG" />
+  <br/>
+  <img src="./diego.gif" alt="Diego Brando" />
+</div>
+
 ## 🚀 About Me
 
 <img src="./assets/about-me-v2.png" height="147" align="right" alt="Profile illustration" />
