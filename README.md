@@ -6,17 +6,12 @@
 
 ## 🚀 About Me
 
-<img src="./assets/about-me-v2.png" height="147" align="right" alt="Profile illustration" />
-
 🎓 **Junior year, grinding for autumn recruitment...**<br/>
 ⚡ Backend & Agent Engineer<br/>
 🧠 Passionate about Multi-Agent Collaboration & Agent Memory<br/>
-🚀 Building practical AI Agents & backend services<br/>
 📚 Exploring distributed systems & cloud-native engineering<br/>
 📫 Email: DiegoCluv7@163.com<br/>
 💬 WeChat: -Gyc-c
-
-<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
