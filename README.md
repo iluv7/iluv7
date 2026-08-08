@@ -1,6 +1,6 @@
-<img src="./assets/about-me.png" height="150" align="right" alt="Profile illustration" />
-
 ## 🚀 About Me
+
+<img src="./assets/about-me.png" height="140" align="right" alt="Profile illustration" />
 
 🎓 **Junior year, grinding for autumn recruitment...**<br/>
 ⚡ Backend & Agent Engineer<br/>
