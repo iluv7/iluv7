@@ -1,16 +1,19 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B%20Hi%2C%20I'm%20DiegoC!;Backend%20%26%20Agent%20Engineer" alt="Typing SVG" />
-  <br/>
-  <img src="./diego.gif" alt="Diego Brando" />
-</div>
-
 ## 🚀 About Me
 
-🎓 **Junior year, grinding for autumn recruitment...**  
-⚡ Backend & Agent Engineer  
-🧠 Passionate about Multi-Agent Collaboration & Agent Memory  
-📫 Email: DiegoCluv7@163.com  
-💬 WeChat: -Gyc-c
+<table>
+  <tr>
+    <td valign="top">
+      🎓 <strong>Junior year, grinding for autumn recruitment...</strong><br/>
+      ⚡ Backend &amp; Agent Engineer<br/>
+      🧠 Passionate about Multi-Agent Collaboration &amp; Agent Memory<br/>
+      📫 Email: DiegoCluv7@163.com<br/>
+      💬 WeChat: -Gyc-c
+    </td>
+    <td valign="top" align="right">
+      <img src="https://i.pinimg.com/originals/d1/3d/08/d13d0843ea9a2f5bd8a3613974c8b72a.jpg" height="105" alt="Profile illustration" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🛠️ Tech Stack
