@@ -101,7 +101,7 @@ def render(days, sprites, username):
         f'<desc id="desc">{escape(username)}: {len(cells)} real calendar days, {len(route)} active days. The whale maid runs continuously, eats only green cells, then celebrates.</desc>',
         '<style>.empty{fill:#ebedf0}.eaten{fill:#ebedf0}@media(prefers-color-scheme:dark){.empty,.eaten{fill:#161b22}}@media(prefers-reduced-motion:reduce){animate,animateTransform{display:none}.actor{display:none}}</style><defs>']
     for name, data in sprites.items():
-        parts.append(f'<image id="{name}" x="-25" y="-33" width="50" height="50" xlink:href="data:image/png;base64,{data}"/>')
+        parts.append(f'<image id="{name}" x="-42" y="-55" width="84" height="84" xlink:href="data:image/png;base64,{data}"/>')
     parts.append('</defs>')
     colors = ['#ebedf0', '#9be9a8', '#40c463', '#30a14e', '#216e39']
     for c in cells:
