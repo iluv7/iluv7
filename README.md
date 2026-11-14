@@ -31,5 +31,5 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iluv7/iluv7/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/iluv7/iluv7/main/assets/whale-maid.svg" width="100%" alt="Whale maid eating my GitHub contributions" />
 </div>
