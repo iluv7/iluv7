@@ -66,12 +66,12 @@ def render(days, sprites, username):
     for date in dates:
         day = dt.date.fromisoformat(date)
         col, row = divmod((day - start).days, 7)
-        cells.append({'date': date, 'col': col, 'row': row, 'x': 48 + col * 14, 'y': 54 + row * 14, 'level': days[date]})
+        cells.append({'date': date, 'col': col, 'row': row, 'x': 20 + col * 16, 'y': 44 + row * 16, 'level': days[date]})
     columns = max(c['col'] for c in cells) + 1
-    width, height = columns * 14 + 96, 192
+    width, height = columns * 16 + 32, 176
     # Visit active cells only, while retaining every blank day in the display.
     route = sorted((c for c in cells if c['level']), key=lambda c: (c['row'], c['col'] if c['row'] % 2 == 0 else -c['col']))
-    x, y, time = 20., 54., 0.
+    x, y, time = 30., 44., 0.
     positions = [(0, f'{x:.3f} {y:.3f}')]
     directions = [(0, '1 1')]
     mouths = [(0, 0)]
@@ -101,11 +101,11 @@ def render(days, sprites, username):
         f'<desc id="desc">{escape(username)}: {len(cells)} real calendar days, {len(route)} active days. The whale maid runs continuously, eats only green cells, then celebrates.</desc>',
         '<style>.empty{fill:#ebedf0}.eaten{fill:#ebedf0}@media(prefers-color-scheme:dark){.empty,.eaten{fill:#161b22}}@media(prefers-reduced-motion:reduce){animate,animateTransform{display:none}.actor{display:none}}</style><defs>']
     for name, data in sprites.items():
-        parts.append(f'<image id="{name}" x="-42" y="-55" width="84" height="84" xlink:href="data:image/png;base64,{data}"/>')
+        parts.append(f'<image id="{name}" x="-30" y="-40" width="60" height="60" xlink:href="data:image/png;base64,{data}"/>')
     parts.append('</defs>')
     colors = ['#ebedf0', '#9be9a8', '#40c463', '#30a14e', '#216e39']
     for c in cells:
-        box = f'x="{c["x"]-5}" y="{c["y"]-5}" width="10" height="10" rx="2"'
+        box = f'x="{c["x"]-6}" y="{c["y"]-6}" width="12" height="12" rx="2"'
         parts.append(f'<rect class="empty" {box}/>' )
         if c['level']:
             parts.append(f'<rect {box} fill="{colors[c["level"]]}">' + animate('opacity', [(0, 1), (consumed[c['date']], 0), (duration, 0)], duration, True) + '</rect>')
