@@ -66,19 +66,19 @@ def render(days, sprites, username):
     for date in dates:
         day = dt.date.fromisoformat(date)
         col, row = divmod((day - start).days, 7)
-        cells.append({'date': date, 'col': col, 'row': row, 'x': 20 + col * 16, 'y': 44 + row * 16, 'level': days[date]})
+        cells.append({'date': date, 'col': col, 'row': row, 'x': 6 + col * 16, 'y': 34 + row * 16, 'level': days[date]})
     columns = max(c['col'] for c in cells) + 1
-    width, height = columns * 16 + 32, 176
+    width, height = columns * 16 - 4, 160
     # Visit active cells only, while retaining every blank day in the display.
     route = sorted((c for c in cells if c['level']), key=lambda c: (c['row'], c['col'] if c['row'] % 2 == 0 else -c['col']))
-    x, y, time = 30., 44., 0.
+    x, y, time = 30., 41., 0.
     positions = [(0, f'{x:.3f} {y:.3f}')]
     directions = [(0, '1 1')]
     mouths = [(0, 0)]
     consumed = {}
     for cell in route:
         direction = -1 if cell['row'] % 2 else 1
-        nx, ny = cell['x'] - direction * 9, cell['y'] + 7
+        nx, ny = max(26, min(width - 26, cell['x'] - direction * 9)), cell['y'] + 7
         distance = math.hypot(nx - x, ny - y)
         travel = max(.20, distance / 76)
         positions.append((time, f'{x:.3f} {y:.3f}'))
@@ -96,7 +96,7 @@ def render(days, sprites, username):
     positions.append((duration, f'{x:.3f} {y:.3f}'))
     directions.extend([(end, '1 1'), (duration, '1 1')])
     mouths.extend([(end, 0), (duration, 0)])
-    parts = [f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">',
+    parts = [f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">',
         '<title id="title">Whale maid contribution calendar</title>',
         f'<desc id="desc">{escape(username)}: {len(cells)} real calendar days, {len(route)} active days. The whale maid runs continuously, eats only green cells, then celebrates.</desc>',
         '<style>.empty{fill:#ebedf0}.eaten{fill:#ebedf0}@media(prefers-color-scheme:dark){.empty,.eaten{fill:#161b22}}@media(prefers-reduced-motion:reduce){animate,animateTransform{display:none}.actor{display:none}}</style><defs>']
